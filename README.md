@@ -1,24 +1,25 @@
 # Baby Growth App
 
-![Baby Growth App](https://via.placeholder.com/150) <!-- Ganti dengan URL gambar aplikasi Anda -->
+<div style="text-align: center;">
+    <img src="[URL_GAMBAR](https://github.com/C241-PS133-BabyGrowth/C241-PS133-BabyGrowth/blob/main/Baby%20Growth%20Icon.jpg)" alt="Baby Growth App" style="width: 50%;">
+</div>
 
-**Baby Growth App** adalah aplikasi yang dirancang khusus untuk membantu para ibu dalam mengukur dan memantau kebutuhan nutrisi bayi. Dengan menggunakan aplikasi ini, para ibu dapat dengan mudah melacak pertumbuhan bayi, memastikan bahwa nutrisi yang diberikan sesuai dengan kebutuhan pertumbuhan mereka.
+**Baby Growth App** is an application specifically designed to help mothers measure and monitor their babies' nutritional needs. By using this application, mothers can easily track their baby's growth, ensuring that the nutrition provided is appropriate to their growth needs.
 
-## Fitur Utama
+## Main Features
 
-- **Pemantauan Pertumbuhan Bayi**: Catat berat badan, tinggi badan, dan lingkar kepala bayi secara berkala.
-- **Kalkulator Nutrisi**: Hitung kebutuhan kalori dan nutrisi berdasarkan data pertumbuhan bayi.
-- **Panduan Nutrisi**: Dapatkan saran dan tips nutrisi yang tepat untuk setiap tahap pertumbuhan bayi.
-- **Notifikasi Pengingat**: Tetapkan pengingat untuk pemberian makan dan jadwal pemeriksaan kesehatan bayi.
+- **Blabla**.
+- **Blabla**.
+- **Blabla**.
+- **Blabla**.
 
-## Tim Pengembang
+## Capstone Team
 
 We are a team dedicated to creating solutions to help mothers maintain the health and development of their babies.
 
 **Team ID**: C241-PS133
 
-### Anggota Tim
-
+### Team Members
 | Name                     | Student ID        | University               | Learning Path        |
 |--------------------------|-------------------|--------------------------|----------------------|
 | Asfara Rikza Iswati      | M297D4KX2515      | UPN "Veteran" Yogyakarta | Machine Learning     |
@@ -29,7 +30,7 @@ We are a team dedicated to creating solutions to help mothers maintain the healt
 | Ahmad Ammar Bahtiar      | C291D4KY0955      | Universitas Pasundan     | Cloud Computing      |
 | Reyhan Ezra Bimantara    | M297D4KY2222      | Universitas Pasundan     | Cloud Computing      |
 
-## Kontak
+## Contact
 
 If you have any questions or suggestions, feel free to contact us at [Our Email](babygrowthC241PS133@gmail.com).
 
