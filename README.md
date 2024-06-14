@@ -1,7 +1,7 @@
 # Baby Growth App
 
 <div style="text-align: center;">
-    <img src="https://github.com/C241-PS133-BabyGrowth/C241-PS133-BabyGrowth/blob/main/Baby%20Growth%20Icon.jpg" alt="Baby Growth App" style="width: 50%;">
+    <img src="https://github.com/C241-PS133-BabyGrowth/C241-PS133-BabyGrowth/blob/main/Baby%20Growth%20Icon.jpg" alt="Baby Growth App" style="width: 10%;">
 </div>
 
 **Baby Growth App** is an application specifically designed to help mothers measure and monitor their babies' nutritional needs. By using this application, mothers can easily track their baby's growth, ensuring that the nutrition provided is appropriate to their growth needs.
