@@ -26,23 +26,15 @@ Kami adalah tim yang berdedikasi dalam menciptakan solusi untuk membantu para ib
 
 ### Anggota Tim
 
-- **Reyhan Ezra Bimantara**  
-  Universitas Pembangunan Nasional "Veteran" Yogyakarta  
-  NIM: 124210036  
-  Email: reyhan.ezra@upnvyk.ac.id  
-  ![Foto Reyhan](https://via.placeholder.com/100) <!-- Ganti dengan URL foto Anda -->
-
-- **Reyhan Ezra Bimantara**  
-  Universitas Pembangunan Nasional "Veteran" Yogyakarta  
-  NIM: 124210036  
-  Email: reyhan.ezra@upnvyk.ac.id  
-  ![Foto Reyhan](https://via.placeholder.com/100) <!-- Ganti dengan URL foto Anda -->
-
-- **Reyhan Ezra Bimantara**  
-  Universitas Pembangunan Nasional "Veteran" Yogyakarta  
-  NIM: 124210036  
-  Email: reyhan.ezra@upnvyk.ac.id  
-  ![Foto Reyhan](https://via.placeholder.com/100) <!-- Ganti dengan URL foto Anda -->
+| Name                     | Student ID        | University               | Learning Path        |
+|--------------------------|-------------------|--------------------------|----------------------|
+| Asfara Rikza Iswati      | M297D4KX2515      | UPN "Veteran" Yogyakarta | Machine Learning     |
+| Afriza Meidio Andhana    | M297D4KY2506      | UPN "Veteran" Yogyakarta | Machine Learning     |
+| Reyhan Ezra Bimantara    | M297D4KY2222      | UPN "Veteran" Yogyakarta | Machine Learning     |
+| Muhammad Ardhia Nugraha  | A291D4KY4239      | Universitas Pasundan     | Mobile Development   |
+| Evlyn Jane Putri         | A001D4KX3719      | IPB University           | Machine Learning     |
+| Ahmad Ammar Bahtiar      | C291D4KY0955      | Universitas Pasundan     | Cloud Computing      |
+| Reyhan Ezra Bimantara    | M297D4KY2222      | Universitas Pasundan     | Cloud Computing      |
 
 ## Cara Menggunakan Aplikasi
 
