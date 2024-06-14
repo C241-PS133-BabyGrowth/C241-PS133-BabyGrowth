@@ -11,16 +11,9 @@
 - **Panduan Nutrisi**: Dapatkan saran dan tips nutrisi yang tepat untuk setiap tahap pertumbuhan bayi.
 - **Notifikasi Pengingat**: Tetapkan pengingat untuk pemberian makan dan jadwal pemeriksaan kesehatan bayi.
 
-## Teknologi yang Digunakan
-
-- **Frontend**: React Native untuk tampilan aplikasi mobile yang responsif.
-- **Backend**: Node.js dengan Express untuk layanan API yang cepat dan aman.
-- **Database**: MongoDB untuk penyimpanan data yang scalable.
-- **DevOps**: Docker untuk containerization dan deployment.
-
 ## Tim Pengembang
 
-Kami adalah tim yang berdedikasi dalam menciptakan solusi untuk membantu para ibu dalam menjaga kesehatan dan perkembangan bayi mereka.
+We are a team dedicated to creating solutions to help mothers maintain the health and development of their babies.
 
 **Team ID**: C241-PS133
 
@@ -32,29 +25,12 @@ Kami adalah tim yang berdedikasi dalam menciptakan solusi untuk membantu para ib
 | Afriza Meidio Andhana    | M297D4KY2506      | UPN "Veteran" Yogyakarta | Machine Learning     |
 | Reyhan Ezra Bimantara    | M297D4KY2222      | UPN "Veteran" Yogyakarta | Machine Learning     |
 | Muhammad Ardhia Nugraha  | A291D4KY4239      | Universitas Pasundan     | Mobile Development   |
-| Evlyn Jane Putri         | A001D4KX3719      | IPB University           | Machine Learning     |
+| Evlyn Jane Putri         | A001D4KX3719      | IPB University           | Mobile Development   |
 | Ahmad Ammar Bahtiar      | C291D4KY0955      | Universitas Pasundan     | Cloud Computing      |
 | Reyhan Ezra Bimantara    | M297D4KY2222      | Universitas Pasundan     | Cloud Computing      |
 
-## Cara Menggunakan Aplikasi
-
-1. **Download** aplikasi dari [Google Play Store](https://play.google.com/store) atau [Apple App Store](https://www.apple.com/app-store/).
-2. **Daftar** akun baru atau masuk dengan akun yang sudah ada.
-3. **Masukkan data bayi** seperti nama, tanggal lahir, dan data pertumbuhan awal.
-4. **Mulai memantau** pertumbuhan bayi dan menambahkan data secara berkala.
-5. **Dapatkan rekomendasi** nutrisi yang tepat sesuai dengan data pertumbuhan bayi Anda.
-
-## Kontribusi
-
-Kami terbuka untuk kontribusi dari siapa pun yang ingin membantu mengembangkan dan meningkatkan aplikasi ini. Jika Anda tertarik, silakan ikuti langkah-langkah berikut:
-
-1. **Fork** repository ini.
-2. **Clone** repository ke mesin lokal Anda.
-3. Buat **branch** baru untuk fitur atau perbaikan yang ingin Anda tambahkan.
-4. Buat **pull request** dengan deskripsi perubahan yang Anda buat.
-
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau saran, jangan ragu untuk menghubungi kami di [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to contact us at [Our Email](babygrowthC241PS133@gmail.com).
 
-Terima kasih telah menggunakan **Baby Growth App**! Kami berharap aplikasi ini dapat membantu Anda dalam memberikan perawatan terbaik untuk buah hati Anda.
+Thank you for using **Baby Growth App**! We hope this application can help you in providing the best care for your little one.
